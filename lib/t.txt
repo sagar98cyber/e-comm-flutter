@@ -1,0 +1,139 @@
+  Column(
+                        children: <Widget>[
+                          Container(
+                            child: Image.asset('assets/dairy.png'),
+                          ),
+                          Text("Dairy"),
+                        ],
+                      ),
+
+
+
+     Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: <Widget>[
+                Container(
+                  margin: EdgeInsets.symmetric(horizontal: 10),
+                  width: _screenWidth-15,
+                  child: ListView(
+                    children: <Widget>[
+                      ListTile(
+                        leading: FlutterLogo(),
+                        title: Text('try till you succeed'),
+                      ),
+                      ListTile(
+                        leading: FlutterLogo(),
+                        title: Text('try till you succeed'),
+                      ),
+                      ListTile(
+                        leading: FlutterLogo(),
+                        title: Text('try till you succeed'),
+                      ),
+                      ListTile(
+                        leading: FlutterLogo(),
+                        title: Text('try till you succeed'),
+                      ),
+                      ListTile(
+                        leading: FlutterLogo(),
+                        title: Text('try till you succeed'),
+                      ),
+                      ListTile(
+                        leading: FlutterLogo(),
+                        title: Text('try till you succeed'),
+                      ),
+                    ],
+                  ),
+                ),
+              ],
+            ),
+
+
+
+
+Container(
+                    color: Colors.blue,
+                    child: Row(
+                      children: <Widget>[
+                        Column(
+                          children: <Widget>[
+                            Container(
+                              child: Image.asset('assets/dairy.png'),
+                            ),
+                            Text("Dairy"),
+                          ],
+                        ),
+                        Column(
+                          children: <Widget>[
+                            Container(
+                              child: Image.asset('assets/dairy.png'),
+                            ),
+                            Text("Dairy"),
+                          ],
+                        ),
+                        Column(
+                          children: <Widget>[
+                            Container(
+                              child: Image.asset('assets/dairy.png'),
+                            ),
+                            Text("Dairy"),
+                          ],
+                        ),
+                        Column(
+                          children: <Widget>[
+                            Container(
+                              child: Image.asset('assets/dairy.png'),
+                            ),
+                            Text("Dairy"),
+                          ],
+                        ),
+                        Column(
+                          children: <Widget>[
+                            Container(
+                              child: Image.asset('assets/dairy.png'),
+                            ),
+                            Text("Dairy"),
+                          ],
+                        ),
+                        Column(
+                          children: <Widget>[
+                            Container(
+                              child: Image.asset('assets/dairy.png'),
+                            ),
+                            Text("Dairy"),
+                          ],
+                        ),
+                        Column(
+                          children: <Widget>[
+                            Container(
+                              child: Image.asset('assets/dairy.png'),
+                            ),
+                            Text("Dairy"),
+                          ],
+                        ),
+                        Column(
+                          children: <Widget>[
+                            Container(
+                              child: Image.asset('assets/dairy.png'),
+                            ),
+                            Text("Dairy"),
+                          ],
+                        ),
+                        Column(
+                          children: <Widget>[
+                            Container(
+                              child: Image.asset('assets/dairy.png'),
+                            ),
+                            Text("Dairy"),
+                          ],
+                        ),
+                        Column(
+                          children: <Widget>[
+                            Container(
+                              child: Image.asset('assets/dairy.png'),
+                            ),
+                            Text("Dairy"),
+                          ],
+                        ),
+                      ],
+                    ),
+                  ),
